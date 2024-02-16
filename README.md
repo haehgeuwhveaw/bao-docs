@@ -2,7 +2,7 @@
 
 ## Moving the bytes with BAO, IPFS þing 2023
 
-[slides](bao-thing.html), [video](http://tbd)
+[slides](bao-thing.html), [video](https://www.youtube.com/watch?v=bK9KDJxCfzI)
 
 ## BLAKE3 and bao deep dive, 03/2023
 
